@@ -1,11 +1,9 @@
-# Group "GROUP NAME"
+# Group "NinJS"
 
 ## Members
-- s123456 LASTNAME FIRSTNAME
-- s123456 LASTNAME FIRSTNAME
-- s123456 LASTNAME FIRSTNAME
+- s347316 Bonometti Daniele
 
-# Exercise "NAME OF EXERCISE"
+# Exercise "Poke"
 
 # Lab Journal
 
